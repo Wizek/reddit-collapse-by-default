@@ -7,7 +7,7 @@ I am trying to test a hunch that I've had for some time that it would be better 
 Potential TODOs
 
 - [ ] Integrate with RES auto-remember feature
-- [ ] Show votes
+- [x] Show votes
 - [ ] better UX through improved design
 
 Questions, comments, issues and pull requests are welcome!
