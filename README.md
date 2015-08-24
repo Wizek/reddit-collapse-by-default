@@ -1,0 +1,1 @@
+# reddit-collapse-by-default
